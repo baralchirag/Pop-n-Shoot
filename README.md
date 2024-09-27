@@ -24,6 +24,6 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Pop-n-Shoot.git
+   git clone https://github.com/baralchirag/Pop-n-Shoot.git
    ```
 2. Open ```index.html``` in your browser to play the game.
