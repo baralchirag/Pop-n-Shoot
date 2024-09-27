@@ -2,6 +2,11 @@
 
 **Pop 'n Shoot** is a simple shooting game where you defend yourself by shooting enemies before they reach you. The goal is to score as many points as possible by hitting and destroying enemies.
 
+## Screenshot
+
+![Gameplay](./images/Screenshot%202024-09-28%20at%2002-57-18%20Pop%20'n%20Shoot.png)
+![Gameplay](./images/Screenshot%202024-09-28%20at%2002-58-06%20Pop%20'n%20Shoot.png)
+
 ## How to Play
 
 - **Objective**: Shoot the enemies before they reach you.
