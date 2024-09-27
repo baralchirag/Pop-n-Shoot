@@ -4,11 +4,27 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>game</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="styles.css"> 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 </head>
 <body>
-    <canvas id="canvas1"></canvas>
-   <img id="player" src="assets/Gangsters_1/Walk.png">
-    <script type="module" src="main.js"></script>
+    <div class="score"><span>Score:&nbsp;</span><span id="scoreEl">0</span></div>
+    <div>
+        <div id="modalEl" class="modal">
+            <div class="modal-content">
+                <h1>Your Score: <span id="bigScore">0</span></h1>
+                <button id="restartButton">Restart</button>
+            </div>
+        </div>
+        
+    </div>
+    <canvas></canvas>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.5.1/gsap.min.js"></script>
+    <script type="module" src="./index.js"></script>
+    
+    <a href="https://github.com/baralchirag/QuickKey" target="_blank" class="github-icon">
+        <i class="fab fa-github"></i>
+    </a>
 </body>
 </html>
+
