@@ -5,7 +5,7 @@
 ## Screenshot
 
 ![Gameplay](./images/Screenshot%202024-09-28%20at%2002-57-18%20Pop%20'n%20Shoot.png)
-![Gameplay](./images/Screenshot%202024-09-28%20at%2002-58-06%20Pop%20'n%20Shoot.png)
+![Gameplay](./images/Screenshot 2024-10-03 at 11-31-58 Pop 'n Shoot.png)
 
 ## How to Play
 
