@@ -14,11 +14,6 @@
 - **Scoring**: You earn points for shrinking or destroying enemies.
 - **Game Over**: If an enemy touches you, the game ends, and your score is shown.
 
-## Features
-
-- Smooth animations and particle effects when enemies are hit.
-- Sound effects for shooting and hitting enemies.
-- Restart option after the game ends.
 
 ## Getting Started
 
